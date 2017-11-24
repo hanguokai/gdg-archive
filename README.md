@@ -1,2 +1,2 @@
 # gdg-archive
-some old archives about GDG
+Some old archives about GDG, like event sites.
